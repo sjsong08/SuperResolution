@@ -1,2 +1,5 @@
-/results/
-/images/
+results/
+images/
+subimages/
+checkpoints/
+MNIST_data/
